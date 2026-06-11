@@ -1,14 +1,12 @@
-<!-- НЕОНОВЫЙ СТИЛЬ ДЛЯ GITHUB ПРОФИЛЯ -->
-<!-- Стилизация через HTML-теги, так как GitHub не поддерживает CSS в README -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=🐇+REDRABBIT;Security+Researcher;Python+Developer;Low-Level+Enthusiast" alt="Typing SVG" />
+  <img src="https://i.imgur.com/1ZQZ1ZQ.png" width="100">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥-Security%20Researcher-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/🐍-Python%20Developer-00ff41?style=for-the-badge&logo=python&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/🐧-Linux%20Enthusiast-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/🐇-REDRABBIT-00ff41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥-Security%20Researcher-00ff41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐍-Python%20Developer-00ff41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐧-Linux%20Enthusiast-00ff41?style=for-the-badge"/>
 </p>
 
 ---
@@ -46,6 +44,9 @@
 | 🔓 **Hash Cracker** | Словарная атака на хеши (MD5/SHA1/SHA256) | [GitHub](https://github.com/dubkow1337/hash-cracker) |
 | 🌐 **Web Scanner** | Поиск скрытых директорий на сайтах | [GitHub](https://github.com/dubkow1337/web-scanner) |
 | ✅ **URL Scanner** | Проверка ссылок на фишинг | [GitHub](https://github.com/dubkow1337/url-scanner) |
+| 🛡️ **Firewall Builder** | Генератор правил iptables/nftables | [GitHub](https://github.com/dubkow1337/firewall-builder) |
+| 📊 **Log Analyzer** | Анализ брутфорс-атак по SSH-логам | [GitHub](https://github.com/dubkow1337/log-analyzer) |
+| 🔍 **Breach Checker** | Проверка email на утечки | [GitHub](https://github.com/dubkow1337/breach-checker) |
 
 ---
 
@@ -88,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=🐇+Always+learning,+always+growing.+🔥" />
+  🐇 Always learning, always growing. 🔥
 </p>
