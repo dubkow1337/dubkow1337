@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/1ZQZ1ZQ.png" width="100">
+  <img src="https://thumbs.dreamstime.com/b/silhouette-red-rabbit-icon-illustration-eps-83262289.jpg" width="100">
 </p>
 
 <p align="center">
